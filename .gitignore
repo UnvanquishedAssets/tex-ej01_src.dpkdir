@@ -1,1 +1,4 @@
 build/
+.paktrace/
+textures/shared_ej01-clean_src/*_p.jpg
+textures/shared_ej01-ice_src/*_p.jpg
