@@ -5,7 +5,7 @@
 
 textures/shared_ej01-clean/ceiling01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/ceiling01_p
+	qer_editorImage     textures/shared_ej01-clean_src/ceiling01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/ceiling01_d
 	normalMap           textures/shared_ej01-common_src/ceiling01_n
@@ -14,7 +14,7 @@ textures/shared_ej01-clean/ceiling01
 
 textures/shared_ej01-clean/ceiling02
 {
-	qer_editorImage     textures/shared_ej01-clean_src/ceiling02_p
+	qer_editorImage     textures/shared_ej01-clean_src/ceiling02_d
 
 	diffuseMap          textures/shared_ej01-clean_src/ceiling02_d
 	normalMap           textures/shared_ej01-common_src/ceiling02_n
@@ -23,7 +23,7 @@ textures/shared_ej01-clean/ceiling02
 
 textures/shared_ej01-clean/corrugated01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/corrugated01_p
+	qer_editorImage     textures/shared_ej01-clean_src/corrugated01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/corrugated01_d
 	normalMap           textures/shared_ej01-common_src/corrugated01_n
@@ -32,7 +32,7 @@ textures/shared_ej01-clean/corrugated01
 
 textures/shared_ej01-clean/floor01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/floor01_p
+	qer_editorImage     textures/shared_ej01-clean_src/floor01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/floor01_d
 	normalMap           textures/shared_ej01-common_src/floor01_n
@@ -41,7 +41,7 @@ textures/shared_ej01-clean/floor01
 
 textures/shared_ej01-clean/floor02
 {
-	qer_editorImage     textures/shared_ej01-clean_src/floor02_p
+	qer_editorImage     textures/shared_ej01-clean_src/floor02_d
 
 	diffuseMap          textures/shared_ej01-clean_src/floor02_d
 	normalMap           textures/shared_ej01-common_src/floor02_n
@@ -50,7 +50,7 @@ textures/shared_ej01-clean/floor02
 
 textures/shared_ej01-clean/floortrim01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/floortrim01_p
+	qer_editorImage     textures/shared_ej01-clean_src/floortrim01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/floortrim01_d
 	normalMap           textures/shared_ej01-common_src/floortrim01_n
@@ -59,7 +59,7 @@ textures/shared_ej01-clean/floortrim01
 
 textures/shared_ej01-clean/floortrim02
 {
-	qer_editorImage     textures/shared_ej01-clean_src/floortrim02_p
+	qer_editorImage     textures/shared_ej01-clean_src/floortrim02_d
 
 	diffuseMap          textures/shared_ej01-clean_src/floortrim02_d
 	normalMap           textures/shared_ej01-common_src/floortrim02_n
@@ -68,7 +68,7 @@ textures/shared_ej01-clean/floortrim02
 
 textures/shared_ej01-clean/light01_blue_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light01_p
+	qer_editorImage     textures/shared_ej01-clean_src/light01_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.482 0.702 1.000
@@ -85,9 +85,9 @@ textures/shared_ej01-clean/light01_blue_3000
 	}
 }
 
-textures/shared_ej01-clean/light01_pink_3000
+textures/shared_ej01-clean/light01_dink_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light01_p
+	qer_editorImage     textures/shared_ej01-clean_src/light01_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.902 0.714 0.714
@@ -106,7 +106,7 @@ textures/shared_ej01-clean/light01_pink_3000
 
 textures/shared_ej01-clean/light01_red_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light01_p
+	qer_editorImage     textures/shared_ej01-clean_src/light01_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.8 0.553 0.553
@@ -125,7 +125,7 @@ textures/shared_ej01-clean/light01_red_3000
 
 textures/shared_ej01-clean/light01_white_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light01_p
+	qer_editorImage     textures/shared_ej01-clean_src/light01_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      1.000 1.000 1.000
@@ -144,7 +144,7 @@ textures/shared_ej01-clean/light01_white_3000
 
 textures/shared_ej01-clean/light02_blue_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light02_p
+	qer_editorImage     textures/shared_ej01-clean_src/light02_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.482 0.702 1.000
@@ -161,9 +161,9 @@ textures/shared_ej01-clean/light02_blue_3000
 	}
 }
 
-textures/shared_ej01-clean/light02_pink_3000
+textures/shared_ej01-clean/light02_dink_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light02_p
+	qer_editorImage     textures/shared_ej01-clean_src/light02_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.902 0.714 0.714
@@ -182,7 +182,7 @@ textures/shared_ej01-clean/light02_pink_3000
 
 textures/shared_ej01-clean/light02_red_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light02_p
+	qer_editorImage     textures/shared_ej01-clean_src/light02_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      0.8 0.553 0.553
@@ -201,7 +201,7 @@ textures/shared_ej01-clean/light02_red_3000
 
 textures/shared_ej01-clean/light02_white_3000
 {
-	qer_editorImage     textures/shared_ej01-clean_src/light02_p
+	qer_editorImage     textures/shared_ej01-clean_src/light02_d
 
 	q3map_surfacelight  3000
 	q3map_lightRGB      1.000 1.000 1.000
@@ -220,7 +220,7 @@ textures/shared_ej01-clean/light02_white_3000
 
 textures/shared_ej01-clean/metalbase01a
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase01a_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase01a_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase01a_d
 	normalMap           textures/shared_ej01-common_src/metalbase01_n
@@ -229,7 +229,7 @@ textures/shared_ej01-clean/metalbase01a
 
 textures/shared_ej01-clean/metalbase01b
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase01b_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase01b_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase01b_d
 	normalMap           textures/shared_ej01-common_src/metalbase01_n
@@ -238,7 +238,7 @@ textures/shared_ej01-clean/metalbase01b
 
 textures/shared_ej01-clean/metalbase01c
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase01c_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase01c_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase01c_d
 	normalMap           textures/shared_ej01-common_src/metalbase01_n
@@ -247,7 +247,7 @@ textures/shared_ej01-clean/metalbase01c
 
 textures/shared_ej01-clean/metalbase02a
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase02a_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase02a_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase02a_d
 	normalMap           textures/shared_ej01-common_src/metalbase02_n
@@ -256,7 +256,7 @@ textures/shared_ej01-clean/metalbase02a
 
 textures/shared_ej01-clean/metalbase02b
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase02b_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase02b_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase02b_d
 	normalMap           textures/shared_ej01-common_src/metalbase02_n
@@ -265,7 +265,7 @@ textures/shared_ej01-clean/metalbase02b
 
 textures/shared_ej01-clean/metalbase02c
 {
-	qer_editorImage     textures/shared_ej01-clean_src/metalbase02c_p
+	qer_editorImage     textures/shared_ej01-clean_src/metalbase02c_d
 
 	diffuseMap          textures/shared_ej01-clean_src/metalbase02c_d
 	normalMap           textures/shared_ej01-common_src/metalbase02_n
@@ -274,7 +274,7 @@ textures/shared_ej01-clean/metalbase02c
 
 textures/shared_ej01-clean/panel01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/panel01_p
+	qer_editorImage     textures/shared_ej01-clean_src/panel01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/panel01_d
 	normalMap           textures/shared_ej01-common_src/panel01_n
@@ -283,7 +283,7 @@ textures/shared_ej01-clean/panel01
 
 textures/shared_ej01-clean/trim01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim01_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim01_d
 	normalMap           textures/shared_ej01-common_src/trim01_n
@@ -292,7 +292,7 @@ textures/shared_ej01-clean/trim01
 
 textures/shared_ej01-clean/trim02
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim02_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim02_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim02_d
 	normalMap           textures/shared_ej01-common_src/trim02_n
@@ -301,7 +301,7 @@ textures/shared_ej01-clean/trim02
 
 textures/shared_ej01-clean/trim03
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim03_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim03_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim03_d
 	normalMap           textures/shared_ej01-common_src/trim03_n
@@ -310,7 +310,7 @@ textures/shared_ej01-clean/trim03
 
 textures/shared_ej01-clean/trim04
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim04_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim04_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim04_d
 	normalMap           textures/shared_ej01-common_src/trim04_n
@@ -319,7 +319,7 @@ textures/shared_ej01-clean/trim04
 
 textures/shared_ej01-clean/trim05
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim05_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim05_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim05_d
 	normalMap           textures/shared_ej01-common_src/trim05_n
@@ -328,7 +328,7 @@ textures/shared_ej01-clean/trim05
 
 textures/shared_ej01-clean/trim06
 {
-	qer_editorImage     textures/shared_ej01-clean_src/trim06_p
+	qer_editorImage     textures/shared_ej01-clean_src/trim06_d
 
 	diffuseMap          textures/shared_ej01-clean_src/trim06_d
 	normalMap           textures/shared_ej01-common_src/trim06_n
@@ -337,7 +337,7 @@ textures/shared_ej01-clean/trim06
 
 textures/shared_ej01-clean/vent01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/vent01_p
+	qer_editorImage     textures/shared_ej01-clean_src/vent01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/vent01_d
 	normalMap           textures/shared_ej01-common_src/vent01_n
@@ -346,7 +346,7 @@ textures/shared_ej01-clean/vent01
 
 textures/shared_ej01-clean/wall01
 {
-	qer_editorImage     textures/shared_ej01-clean_src/wall01_p
+	qer_editorImage     textures/shared_ej01-clean_src/wall01_d
 
 	diffuseMap          textures/shared_ej01-clean_src/wall01_d
 	normalMap           textures/shared_ej01-common_src/wall01_n
