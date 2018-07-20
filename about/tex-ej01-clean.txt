@@ -23,7 +23,6 @@ textures/shared_ej01-clean_src/*
 	~References, Tools and Appreciations
 		
 		References:
-		- Grungemaps used in creation are sourced from CG textures.
 		- Metal underlays used in creation are by Wotjar. Sourced from
 		  http://wojtar-stock.deviantart.com/
 		  
