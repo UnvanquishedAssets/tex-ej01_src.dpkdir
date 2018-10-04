@@ -71,7 +71,7 @@ textures/shared_ej01-ice/light01_blue_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -79,9 +79,9 @@ textures/shared_ej01-ice/light01_blue_3000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -90,7 +90,7 @@ textures/shared_ej01-ice/light01_dink_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.902 0.714 0.714
+	q3map_lightRGB      .902 .714 .714
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -98,9 +98,9 @@ textures/shared_ej01-ice/light01_dink_3000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.8
-		green 0.631
-		blue  0.631
+		red   .8
+		green .631
+		blue  .631
 	}
 }
 
@@ -109,7 +109,7 @@ textures/shared_ej01-ice/light01_red_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.8 0.553 0.553
+	q3map_lightRGB      .8 .553 .553
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -117,9 +117,9 @@ textures/shared_ej01-ice/light01_red_3000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.8
-		green 0.505
-		blue  0.505
+		red   .8
+		green .505
+		blue  .505
 	}
 }
 
@@ -128,7 +128,7 @@ textures/shared_ej01-ice/light01_red_1500
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      0.8 0.553 0.553
+	q3map_lightRGB      .8 .553 .553
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -136,9 +136,9 @@ textures/shared_ej01-ice/light01_red_1500
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.8
-		green 0.505
-		blue  0.505
+		red   .8
+		green .505
+		blue  .505
 	}
 }
 
@@ -147,7 +147,7 @@ textures/shared_ej01-ice/light01_orange_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.902 0.690 0.612
+	q3map_lightRGB      .902 .690 .612
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -155,9 +155,9 @@ textures/shared_ej01-ice/light01_orange_3000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.767
-		green 0.587
-		blue  0.520
+		red   .767
+		green .587
+		blue  .52
 	}
 }
 
@@ -166,7 +166,7 @@ textures/shared_ej01-ice/light01_white_5000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  5000
-	q3map_lightRGB      0.9 0.9 0.9
+	q3map_lightRGB      .9 .9 .9
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -174,9 +174,9 @@ textures/shared_ej01-ice/light01_white_5000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.8
-		green 0.8
-		blue  0.8
+		red   .8
+		green .8
+		blue  .8
 	}
 }
 
@@ -185,7 +185,7 @@ textures/shared_ej01-ice/light01_white_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light01_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ej01-ice_src/light01_d
 	normalMap           textures/shared_ej01-common_src/light01_n
@@ -193,9 +193,9 @@ textures/shared_ej01-ice/light01_white_3000
 	{
 		map   textures/shared_ej01-ice_src/light01_a
 		blend add
-		red   0.8
-		green 0.8
-		blue  0.8
+		red   .8
+		green .8
+		blue  .8
 	}
 }
 
@@ -204,7 +204,7 @@ textures/shared_ej01-ice/light02_blue_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -212,9 +212,9 @@ textures/shared_ej01-ice/light02_blue_3000
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -223,7 +223,7 @@ textures/shared_ej01-ice/light02_blue_1500
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -231,9 +231,9 @@ textures/shared_ej01-ice/light02_blue_1500
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -242,7 +242,7 @@ textures/shared_ej01-ice/light02_dink_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.902 0.714 0.714
+	q3map_lightRGB      .902 .714 .714
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -250,9 +250,9 @@ textures/shared_ej01-ice/light02_dink_3000
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.8
-		green 0.631
-		blue  0.631
+		red   .8
+		green .631
+		blue  .631
 	}
 }
 
@@ -261,7 +261,7 @@ textures/shared_ej01-ice/light02_red_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.8 0.553 0.553
+	q3map_lightRGB      .8 .553 .553
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -269,9 +269,9 @@ textures/shared_ej01-ice/light02_red_3000
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.8
-		green 0.505
-		blue  0.505
+		red   .8
+		green .505
+		blue  .505
 	}
 }
 
@@ -280,7 +280,7 @@ textures/shared_ej01-ice/light02_orange_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.902 0.690 0.612
+	q3map_lightRGB      .902 .690 .612
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -288,9 +288,9 @@ textures/shared_ej01-ice/light02_orange_3000
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.767
-		green 0.587
-		blue  0.520
+		red   .767
+		green .587
+		blue  .52
 	}
 }
 
@@ -299,7 +299,7 @@ textures/shared_ej01-ice/light02_white_3000
 	qer_editorImage     textures/shared_ej01-ice_src/light02_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ej01-ice_src/light02_d
 	normalMap           textures/shared_ej01-common_src/light02_n
@@ -307,9 +307,9 @@ textures/shared_ej01-ice/light02_white_3000
 	{
 		map   textures/shared_ej01-ice_src/light02_a
 		blend add
-		red   0.8
-		green 0.8
-		blue  0.8
+		red   .8
+		green .8
+		blue  .8
 	}
 }
 
