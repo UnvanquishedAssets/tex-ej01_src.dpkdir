@@ -5,9 +5,11 @@ ej01 texture set for Unvanquished
 About
 -----
 
-_Forlorn_ is a map featuring a desolate mineral processing plant on a frozen planet for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this map.
+[_Forlorn_](../map-forlorn_src.dpkdir/README.md) is a game level featuring a desolate mineral processing plant on a frozen planet for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this map.
 
 This texture set is a work in progress by Jack “EmperorJack” Purvis for the [Unvanquished](https://unvanquished.net) game project.
+
+This texture set is meant to be used with a level editor like [NetRadiant](https://netradiant.gitlab.io/).
 
 Visit the [Unvanquished website](https://unvanquished.net/) for more information about the game itself.
 
@@ -28,4 +30,4 @@ Credits
 -------
 
 - [Jack “EmperorJack” Purvis](https://www.behance.net/jackpurvis)
-- The [Unvanquished team](https://unvanquished.net/?page_id=336)
+- The [Unvanquished team](https://unvanquished.net/about/)
