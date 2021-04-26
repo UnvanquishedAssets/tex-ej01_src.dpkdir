@@ -5,7 +5,7 @@ ej01 texture set for Unvanquished
 About
 -----
 
-[_Forlorn_](../map-forlorn_src.dpkdir/README.md) is a game level featuring a desolate mineral processing plant on a frozen planet for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this map.
+[_Forlorn_](https://github.com/UnvanquishedAssets/map-forlorn_src.dpkdir) is a game level featuring a desolate mineral processing plant on a frozen planet for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this map.
 
 This texture set is a work in progress by Jack “EmperorJack” Purvis for the [Unvanquished](https://unvanquished.net) game project.
 
