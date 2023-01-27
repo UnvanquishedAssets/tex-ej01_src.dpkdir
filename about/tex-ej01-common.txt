@@ -1,44 +1,44 @@
 textures/shared_ej01-common_src/*
 
-	~Description
-	
+	Description
+
 		Version: 1.0
 		Summary: "The normal maps for my first texture pack, ej01. Originally
 		          made for my map Forlorn for Unvanquished Development."
 
-    ~Author
+	Author
 
-        Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
+		Jack 'EmperorJack' Purvis (emperorpurvis@gmail.com)
 		"I reside in New Zealand and create maps and textures for Unvanquished
 		Development."
-	
-	~Usage instructions
-	
+
+	Usage instructions
+
 		The ej01 set has two variant packs, tex-ej01-clean and tex-ej01-ice.
 		Both packs have different diffuse/specular maps but share the same normal maps.
 		The normal maps are contained within the pack tex-ej01-common(this one). Both variant packs
 		are dependent on this common pack. To work with either pack you need this common
 		pack installed.
-	
-	~References, Tools and Appreciations
-		
+
+	References, Tools and Appreciations
+
 		References:
 		- Metal underlays used in creation are by Wotjar. Sourced from
 		  http://wojtar-stock.deviantart.com/
-		  
+
 		Tools:
 		- Blender
 		- Photoshop CS6
 		- xNormal
-		
+
 		Appreciations:
 		- Unvanquished Development: "Together we are creating an amazing game. Let this
 		  texture set add to it's aesthetic qualities!"
 		- Cameron “cron” Fraser: "Your modelling advice was invaluable to kick-starting my
 		  blender skillset and without this tutorial I don't know how I would have started
 		  an efficient texture creation pipeline: http://vimeo.com/26772037"
-		
-    ~License
+
+	License
 
 		Creative Commons Attribution-Share Alike 3.0 License
 		https://creativecommons.org/licenses/by-sa/3.0/
@@ -60,16 +60,15 @@ textures/shared_ej01-common_src/*
 		ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 		No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-	
-    ~Notes
+
+	Notes
 
 		- The ej01 texture set is incomplete. Currently 20 out of a planned 48 unique
 		  materials have been created.
 
-    ~Source
+	Source
 
-        Made intentionally for Unvanquished Development. Though shader is compatible
+		Made intentionally for Unvanquished Development. Though shader is compatible
 		with any quake engine derivative, the .crn format used for Unvanquished may
 		not be compatible with these engines. You may ask for the original .tga
 		version of the texture pack from me personally.
-
