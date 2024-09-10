@@ -1,2 +1,4 @@
 /.cache/
 /build/
+/scripts/shared_ej01-clean.shader
+/scripts/shared_ej01-ice.shader

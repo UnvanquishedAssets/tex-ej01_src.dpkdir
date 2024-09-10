@@ -1,0 +1,4 @@
+# This is a configuration file for the Sloth shader generator
+[options]
+colors = blue:7bb3ff dink:e6b6b6 red:cc8d8d orange:e6b09c white:ffffff
+customLights = 0 1500 3000 5000
