@@ -5,7 +5,9 @@ floor01_n.png textures/shared_ej01-common_src/floor01_n.png
 floor02_n.png textures/shared_ej01-common_src/floor02_n.png
 floortrim01_n.png textures/shared_ej01-common_src/floortrim01_n.png
 floortrim02_n.png textures/shared_ej01-common_src/floortrim02_n.png
+light01_a.png textures/shared_ej01-common_src/light01_a.png
 light01_n.png textures/shared_ej01-common_src/light01_n.png
+light02_a.png textures/shared_ej01-common_src/light02_a.png
 light02_n.png textures/shared_ej01-common_src/light02_n.png
 metalbase01_n.png textures/shared_ej01-common_src/metalbase01_n.png
 metalbase02_n.png textures/shared_ej01-common_src/metalbase02_n.png
